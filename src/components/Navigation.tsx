@@ -62,7 +62,7 @@ const Navigation = () => {
                 onClick={() => scrollToSection('home')}
                 className="text-2xl font-bold text-blue-600 hover:text-blue-700 transition-colors"
               >
-                Dental Lab
+                SR Dental Lab
               </button>
             </div>
 
