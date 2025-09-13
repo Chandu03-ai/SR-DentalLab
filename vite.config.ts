@@ -7,4 +7,5 @@ export default defineConfig({
   optimizeDeps: {
     exclude: ['lucide-react'],
   },
+  base: '/SR-DentalLab/',  // 👈 important for GitHub Pages
 });
